@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on: Finishing my degree in network operations and security
-- 🌱 I’m currently learning: cloud based security
+- 🔭 I’m currently working on: adding to my home server
+- 🌱 I’m currently learning: Proxmox
 - 👯 I’m looking to collaborate on: nothing atm
 - 🤔 I’m looking for help with: nothing atm
 - 💬 Ask me about: anything
